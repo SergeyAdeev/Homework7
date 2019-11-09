@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+/target
+*.xls
+*.pdf
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
